@@ -1,5 +1,5 @@
 function privacypolicy(){
-    location.href = "/archive/penguinbyte-guard/privacypolicy.html"
+    location.href = "/guard/legacy/privacypolicy.html"
 }
 
 function sourcecode(){
@@ -7,5 +7,5 @@ function sourcecode(){
 }
 
 function termsofservice(){
-    location.href = "/archive/penguinbyte-guard/termsofservice.html"
+    location.href = "/guard/legacy/termsofservice.html"
 }
