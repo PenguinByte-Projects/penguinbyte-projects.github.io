@@ -9,6 +9,10 @@
     font-family: var(--poppins)
 }
 
+#loading {
+    display: none;
+}
+
 body {
     background: rgb(56, 182, 255);
     background: var(--pb-gradient);
@@ -58,7 +62,7 @@ body {
 }
 
 a {
-    color: rgb(120, 203, 231)
+    color: rgb(56, 182, 255);
 }
 
 .stickybtn {
@@ -98,6 +102,7 @@ a {
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap;
+    width: 100%;
 }
 
 .project {
@@ -130,4 +135,13 @@ a {
     width: 32px;
     margin-left: auto;
     margin-right: 15px;
+}
+
+#banner {
+    width: 100%;
+    border-radius: 18px;
+}
+
+#handemoji {
+    font-size: 10px;
 }
