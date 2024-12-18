@@ -106,7 +106,7 @@ a {
 }
 
 .project {
-    width: 600px;
+    width: 60%;
     height: 90px;
     background-color: white;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.637);
@@ -143,5 +143,5 @@ a {
 }
 
 #handemoji {
-    font-size: 10px;
+    font-size: 60px;
 }
